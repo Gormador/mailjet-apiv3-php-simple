@@ -1,4 +1,4 @@
-<?php namespace Mailjet;
+<?php namespace Mailjet\SimplePHPWrapperForAPIv3;
 
 /**
  * Mailjet Public API
